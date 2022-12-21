@@ -9,4 +9,4 @@
 안녕하세요.
 
 
-![짱구는 못말려](/imagesjpeg)
+![짱구는 못말려](/images.jpeg)
